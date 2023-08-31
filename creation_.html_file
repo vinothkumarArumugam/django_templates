@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>this is vinothkumar</title>
+</head>
+<body>
+<<h1>this is a river flowing in salem foot hills of serveroyranges</h1>
+     {{display_date}}         #html tag always in dict format
+</<body>
+</html>
+#create this file in template folder 
