@@ -1,0 +1,4 @@
+#first create project -- django-admin startproject (name of the project)
+#then create application in the project directory--python manage.py startapp (name of the app)
+#then create template folder after that create app folder the in template folder --template folder/app folder/.html file or template tags
+
